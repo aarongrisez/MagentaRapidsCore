@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+python -m magenta_rapids init --environment ${SCRIPT_DIR}/tests/test_environment
+python -m magenta_rapids store --environment ${SCRIPT_DIR}/tests/test_environment --file ${SCRIPT_DIR}/tests/example_files/1.mid
