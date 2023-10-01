@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-python -m magenta_rapids init --environment ${SCRIPT_DIR}/tests/test_environment
-python -m magenta_rapids store --environment ${SCRIPT_DIR}/tests/test_environment --file ${SCRIPT_DIR}/tests/example_files/1.mid
+rm -rf ${SCRIPT_DIR}/tests/test_environment/*
+python -m magenta_rapids init --environment_path ${SCRIPT_DIR}/tests/test_environment
+python -m magenta_rapids store --environment_path ${SCRIPT_DIR}/tests/test_environment --file ${SCRIPT_DIR}/tests/example_files/magenta-rapids-a-0.mid
+python -m magenta_rapids play --file ${SCRIPT_DIR}/tests/test_environment/unprocessed/fe323947dc01fd211bf3a662d153c14fda74bc6d.mid
+python -m magenta_rapids mutate --environment_path ${SCRIPT_DIR}/tests/test_environment -n 13
+python -m magenta_rapids play --file ${SCRIPT_DIR}/tests/test_environment/processed/fe323947dc01fd211bf3a662d153c14fda74bc6d.mid
