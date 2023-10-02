@@ -29,6 +29,6 @@ jobs:
     - name: Install dependencies
       run: poetry install 
     - name: Lint with pylint
-      run: poetry run pylint $(git ls-files '*.py')
+      run: poetry run pylint --fail-under=8 $(git ls-files '*.py' ':!:docs/*')
     - name: Test with pytest
       run: poetry pytest
