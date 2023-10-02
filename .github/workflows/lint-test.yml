@@ -31,4 +31,4 @@ jobs:
     - name: Lint with pylint
       run: poetry run pylint --fail-under=8 $(git ls-files '*.py' ':!:docs/*')
     - name: Test with pytest
-      run: poetry pytest
+      run: poetry run pytest
