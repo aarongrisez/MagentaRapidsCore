@@ -1,0 +1,305 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-09-10T17:14:12Z",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlICJOYW1lIiAiRGVzY3JpcHRpb24iIHsKCiAgICBtb2RlbCB7CiAgICAgICAgbXJjID0gc29mdHdhcmVTeXN0ZW0gIk1hZ2VudGFSYXBpZHNDb3JlIiB7CiAgICAgICAgICAgIHBlcnNwZWN0aXZlcyB7CiAgICAgICAgICAgICAgICAiU3VibWlzc2lvbiBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSB1c2VyIGludG8gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCIKICAgICAgICAgICAgICAgICJCcm9hZGNhc3QgUHJvY2VzcyIgIlN0YW5kYXJkIHByb2Nlc3MgZm9yIGdldHRpbmcgTUlESSBmcm9tIGEgTWFnZW50YSBSYXBpZHMgZW52aXJvbm1lbnQgb3V0IHRvIHVzZXJzIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1yZiA9IHNvZnR3YXJlU3lzdGVtICJNYWdlbnRhUmFwaWRzRnJvbnRlbmQiIHsKICAgICAgICAgICAgcGVyc3BlY3RpdmVzIHsKICAgICAgICAgICAgICAgICJTdWJtaXNzaW9uIFByb2Nlc3MiICJTdGFuZGFyZCBwcm9jZXNzIGZvciBnZXR0aW5nIE1JREkgZnJvbSBhIHVzZXIgaW50byBhIE1hZ2VudGEgUmFwaWRzIGVudmlyb25tZW50IgogICAgICAgICAgICAgICAgIkJyb2FkY2FzdCBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCBvdXQgdG8gdXNlcnMiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgbXJjbCA9IHNvZnR3YXJlU3lzdGVtICJNYWdlbnRhUmFwaWRzQ2xpZW50IiB7CiAgICAgICAgICAgIHBlcnNwZWN0aXZlcyB7CiAgICAgICAgICAgICAgICAiU3VibWlzc2lvbiBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSB1c2VyIGludG8gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCIKICAgICAgICAgICAgICAgICJCcm9hZGNhc3QgUHJvY2VzcyIgIlN0YW5kYXJkIHByb2Nlc3MgZm9yIGdldHRpbmcgTUlESSBmcm9tIGEgTWFnZW50YSBSYXBpZHMgZW52aXJvbm1lbnQgb3V0IHRvIHVzZXJzIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGVtYyA9IHNvZnR3YXJlU3lzdGVtICJFeHRlcm5hbCBNSURJIENvbnRyb2xlciIgewogICAgICAgICAgICAjIHR5cGljYWwgZXhhbXBsZTogS09SRyBLZXlib2FyZCwgc29tZXRoaW5nIHdpdGggTUlESSBvdXQKICAgICAgICAgICAgcGVyc3BlY3RpdmVzIHsKICAgICAgICAgICAgICAgICJTdWJtaXNzaW9uIFByb2Nlc3MiICJTdGFuZGFyZCBwcm9jZXNzIGZvciBnZXR0aW5nIE1JREkgZnJvbSBhIHVzZXIgaW50byBhIE1hZ2VudGEgUmFwaWRzIGVudmlyb25tZW50IgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGVtYiA9IHNvZnR3YXJlU3lzdGVtICJFeHRlcm5hbCBNSURJIEJhY2tlbmQiIHsKICAgICAgICAgICAgIyB0eXBpY2FsIGV4YW1wbGU6IERBVywgc29tZXRoaW5nIHdpdGggTUlESSBpbgogICAgICAgICAgICBwZXJzcGVjdGl2ZXMgewogICAgICAgICAgICAgICAgIkJyb2FkY2FzdCBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCBvdXQgdG8gdXNlcnMiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcCA9IHBlcnNvbiAiVXNlciIgewogICAgICAgICAgICBwZXJzcGVjdGl2ZXMgewogICAgICAgICAgICAgICAgIlN1Ym1pc3Npb24gUHJvY2VzcyIgIlN0YW5kYXJkIHByb2Nlc3MgZm9yIGdldHRpbmcgTUlESSBmcm9tIGEgdXNlciBpbnRvIGEgTWFnZW50YSBSYXBpZHMgZW52aXJvbm1lbnQiCiAgICAgICAgICAgICAgICAiQnJvYWRjYXN0IFByb2Nlc3MiICJTdGFuZGFyZCBwcm9jZXNzIGZvciBnZXR0aW5nIE1JREkgZnJvbSBhIE1hZ2VudGEgUmFwaWRzIGVudmlyb25tZW50IG91dCB0byB1c2VycyIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIFN1Ym1pc3Npb24gUHJvY2VzcwogICAgICAgIHAgLT4gZW1jICJUcmlnZ2VyIiB7CiAgICAgICAgICAgIHBlcnNwZWN0aXZlcyB7CiAgICAgICAgICAgICAgICAiU3VibWlzc2lvbiBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSB1c2VyIGludG8gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBlbWMgLT4gbXJjbCAiU2VuZHMgcmF3IE1JREkiIHsKICAgICAgICAgICAgcGVyc3BlY3RpdmVzIHsKICAgICAgICAgICAgICAgICJTdWJtaXNzaW9uIFByb2Nlc3MiICJTdGFuZGFyZCBwcm9jZXNzIGZvciBnZXR0aW5nIE1JREkgZnJvbSBhIHVzZXIgaW50byBhIE1hZ2VudGEgUmFwaWRzIGVudmlyb25tZW50IgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1yY2wgLT4gbXJmICJTZW5kcyBidWZmZXJlZCBNSURJIiB7CiAgICAgICAgICAgIHBlcnNwZWN0aXZlcyB7CiAgICAgICAgICAgICAgICAiU3VibWlzc2lvbiBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSB1c2VyIGludG8gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBtcmYgLT4gbXJjICJTdG9yZSBhbmQgcHJvY2VzcyBidWZmZXJlZCBNSURJIiB7CiAgICAgICAgICAgIHBlcnNwZWN0aXZlcyB7CiAgICAgICAgICAgICAgICAiU3VibWlzc2lvbiBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSB1c2VyIGludG8gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIENsaWVudC1Gcm9udGVuZCBTdWJzY3JpcHRpb24gUHJvY2VzcwogICAgICAgIG1yY2wgLT4gbXJmICJTdWJzY3JpYmUgdG8gY2hhbm5lbCIKICAgICAgICAjIENsaWVudCBhbmQgZXh0ZXJuYWwgY29udHJvbGxlcnMvYmFja2VuZHMgY29tbXVuaWNhdGUgbG9jYWxseSBvdmVyIE1JREkgcG9ydHMKICAgICAgICAKICAgICAgICAjIEJyb2FkY2FzdCBQcm9jZXNzCiAgICAgICAgbXJjIC0+IG1yZiAiU2VuZCBidWZmZXJlZCwgcHJvY2Vzc2VkIE1JREkiIHsKICAgICAgICAgICAgcGVyc3BlY3RpdmVzIHsKICAgICAgICAgICAgICAgICJCcm9hZGNhc3QgUHJvY2VzcyIgIlN0YW5kYXJkIHByb2Nlc3MgZm9yIGdldHRpbmcgTUlESSBmcm9tIGEgTWFnZW50YSBSYXBpZHMgZW52aXJvbm1lbnQgb3V0IHRvIHVzZXJzIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIG1yZiAtPiBtcmNsICJCcm9hZGNhc3QgYnVmZmVyZWQgTUlESSIgewogICAgICAgICAgICBwZXJzcGVjdGl2ZXMgewogICAgICAgICAgICAgICAgIkJyb2FkY2FzdCBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCBvdXQgdG8gdXNlcnMiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgbXJjbCAtPiBlbWIgIlNlbmQgcmF3IE1JREkiIHsKICAgICAgICAgICAgcGVyc3BlY3RpdmVzIHsKICAgICAgICAgICAgICAgICJCcm9hZGNhc3QgUHJvY2VzcyIgIlN0YW5kYXJkIHByb2Nlc3MgZm9yIGdldHRpbmcgTUlESSBmcm9tIGEgTWFnZW50YSBSYXBpZHMgZW52aXJvbm1lbnQgb3V0IHRvIHVzZXJzIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGVtYiAtPiBwICJSZW5kZXIgTUlESSIgewogICAgICAgICAgICBwZXJzcGVjdGl2ZXMgewogICAgICAgICAgICAgICAgIkJyb2FkY2FzdCBQcm9jZXNzIiAiU3RhbmRhcmQgcHJvY2VzcyBmb3IgZ2V0dGluZyBNSURJIGZyb20gYSBNYWdlbnRhIFJhcGlkcyBlbnZpcm9ubWVudCBvdXQgdG8gdXNlcnMiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgCiAgICB9CiAgICAKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgbXJjIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQogICAgfQp9Cg=="
+  },
+  "configuration" : { },
+  "model" : {
+    "people" : [ {
+      "id" : "6",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "p"
+      },
+      "perspectives" : [ {
+        "name" : "Submission Process",
+        "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+      }, {
+        "name" : "Broadcast Process",
+        "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+      } ],
+      "name" : "User",
+      "relationships" : [ {
+        "id" : "7",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "381fb493-0f74-450d-b366-8ec7dc40f8d6"
+        },
+        "perspectives" : [ {
+          "name" : "Submission Process",
+          "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+        } ],
+        "sourceId" : "6",
+        "destinationId" : "4",
+        "description" : "Trigger"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "1",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "mrc"
+      },
+      "perspectives" : [ {
+        "name" : "Submission Process",
+        "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+      }, {
+        "name" : "Broadcast Process",
+        "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+      } ],
+      "name" : "MagentaRapidsCore",
+      "relationships" : [ {
+        "id" : "12",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "ab38ce7f-ff39-4551-a373-ca6f0f5ea7cd"
+        },
+        "perspectives" : [ {
+          "name" : "Broadcast Process",
+          "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+        } ],
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Send buffered, processed MIDI"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "mrf"
+      },
+      "perspectives" : [ {
+        "name" : "Submission Process",
+        "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+      }, {
+        "name" : "Broadcast Process",
+        "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+      } ],
+      "name" : "MagentaRapidsFrontend",
+      "relationships" : [ {
+        "id" : "10",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "8790b654-a55b-4eae-b3a3-79247f7b7837"
+        },
+        "perspectives" : [ {
+          "name" : "Submission Process",
+          "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+        } ],
+        "sourceId" : "2",
+        "destinationId" : "1",
+        "description" : "Store and process buffered MIDI"
+      }, {
+        "id" : "13",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "30316308-677b-4198-88ac-fa6a684d2155"
+        },
+        "perspectives" : [ {
+          "name" : "Broadcast Process",
+          "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+        } ],
+        "sourceId" : "2",
+        "destinationId" : "3",
+        "description" : "Broadcast buffered MIDI"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "mrcl"
+      },
+      "perspectives" : [ {
+        "name" : "Submission Process",
+        "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+      }, {
+        "name" : "Broadcast Process",
+        "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+      } ],
+      "name" : "MagentaRapidsClient",
+      "relationships" : [ {
+        "id" : "9",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "d59c596e-0d9f-4987-aa1a-31475ead7127"
+        },
+        "perspectives" : [ {
+          "name" : "Submission Process",
+          "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+        } ],
+        "sourceId" : "3",
+        "destinationId" : "2",
+        "description" : "Sends buffered MIDI"
+      }, {
+        "id" : "11",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "ad12840a-94e3-475e-bfc3-7fec60b58a4f"
+        },
+        "sourceId" : "3",
+        "destinationId" : "2",
+        "description" : "Subscribe to channel"
+      }, {
+        "id" : "14",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "7f23f8ed-5036-464d-b753-16ec05704dd9"
+        },
+        "perspectives" : [ {
+          "name" : "Broadcast Process",
+          "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+        } ],
+        "sourceId" : "3",
+        "destinationId" : "5",
+        "description" : "Send raw MIDI"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "emc"
+      },
+      "perspectives" : [ {
+        "name" : "Submission Process",
+        "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+      } ],
+      "name" : "External MIDI Controler",
+      "relationships" : [ {
+        "id" : "8",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "b9f6a8de-ea9a-47c5-884a-8ae055efcf8f"
+        },
+        "perspectives" : [ {
+          "name" : "Submission Process",
+          "description" : "Standard process for getting MIDI from a user into a Magenta Rapids environment"
+        } ],
+        "sourceId" : "4",
+        "destinationId" : "3",
+        "description" : "Sends raw MIDI"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "emb"
+      },
+      "perspectives" : [ {
+        "name" : "Broadcast Process",
+        "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+      } ],
+      "name" : "External MIDI Backend",
+      "relationships" : [ {
+        "id" : "15",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "50f2e481-9f21-43ee-b8d0-04a3ef9f183f"
+        },
+        "perspectives" : [ {
+          "name" : "Broadcast Process",
+          "description" : "Standard process for getting MIDI from a Magenta Rapids environment out to users"
+        } ],
+        "sourceId" : "5",
+        "destinationId" : "6",
+        "description" : "Render MIDI"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemLandscapeViews" : [ {
+      "key" : "mrc",
+      "order" : 1,
+      "paperSize" : "Slide_16_9",
+      "dimensions" : {
+        "width" : 3508,
+        "height" : 1973
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 2760,
+        "y" : 730
+      }, {
+        "id" : "2",
+        "x" : 1815,
+        "y" : 665
+      }, {
+        "id" : "3",
+        "x" : 1310,
+        "y" : 660
+      }, {
+        "id" : "4",
+        "x" : 665,
+        "y" : 430
+      }, {
+        "id" : "5",
+        "x" : 725,
+        "y" : 1015
+      }, {
+        "id" : "6",
+        "x" : 15,
+        "y" : 660
+      } ],
+      "relationships" : [ {
+        "id" : "15"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "13",
+        "vertices" : [ {
+          "x" : 1795,
+          "y" : 470
+        } ]
+      }, {
+        "id" : "12",
+        "vertices" : [ {
+          "x" : 2445,
+          "y" : 1305
+        } ]
+      }, {
+        "id" : "11",
+        "vertices" : [ {
+          "x" : 1780,
+          "y" : 1175
+        } ]
+      }, {
+        "id" : "7"
+      }, {
+        "id" : "8"
+      }, {
+        "id" : "10",
+        "vertices" : [ {
+          "x" : 2485,
+          "y" : 560
+        } ]
+      }, {
+        "id" : "9",
+        "vertices" : [ {
+          "x" : 1780,
+          "y" : 1410
+        } ]
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "terminology" : { },
+      "lastSavedView" : "mrc"
+    }
+  }
+}

@@ -1,0 +1,225 @@
+[INFO ] 2023-09-09 02:25:18.727 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 02:25:18.735 [main] ContextLoaderListener -   _____ _                   _              _          
+[INFO ] 2023-09-09 02:25:18.736 [main] ContextLoaderListener -  / ____| |                 | |            (_)         
+[INFO ] 2023-09-09 02:25:18.737 [main] ContextLoaderListener - | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2023-09-09 02:25:18.738 [main] ContextLoaderListener -  \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2023-09-09 02:25:18.739 [main] ContextLoaderListener -  ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2023-09-09 02:25:18.741 [main] ContextLoaderListener - |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2023-09-09 02:25:18.742 [main] ContextLoaderListener -                                                       
+[INFO ] 2023-09-09 02:25:18.743 [main] ContextLoaderListener - Structurizr on-premises installation
+[INFO ] 2023-09-09 02:25:18.751 [main] ContextLoaderListener -  - build: 3140 (2023-09-08T11:00:28Z)
+[INFO ] 2023-09-09 02:25:18.756 [main] ContextLoaderListener -  - structurizr-java: v1.26.1
+[INFO ] 2023-09-09 02:25:18.783 [main] ContextLoaderListener -  - structurizr-dsl: v1.32.0
+[INFO ] 2023-09-09 02:25:18.790 [main] ContextLoaderListener -  - structurizr-import: v1.5.0
+[INFO ] 2023-09-09 02:25:18.798 [main] ContextLoaderListener -  - structurizr-graphviz: v2.2.1
+[INFO ] 2023-09-09 02:25:18.806 [main] ContextLoaderListener - Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2023-09-09 02:25:18.809 [main] ContextLoaderListener - URL: 
+[INFO ] 2023-09-09 02:25:18.820 [main] ContextLoaderListener - Memory: used=46MB; free=465MB; total=512MB; max=512MB
+[INFO ] 2023-09-09 02:25:18.821 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 02:25:18.822 [main] ContextLoaderListener - Internet connection: true
+[INFO ] 2023-09-09 02:25:18.825 [main] ContextLoaderListener - Authentication: file
+[INFO ] 2023-09-09 02:25:18.827 [main] ContextLoaderListener - API key: false
+[INFO ] 2023-09-09 02:25:18.831 [main] ContextLoaderListener - Session: local
+[INFO ] 2023-09-09 02:25:18.833 [main] ContextLoaderListener - Data storage: file
+[INFO ] 2023-09-09 02:25:18.835 [main] ContextLoaderListener - Workspace archiving: false
+[INFO ] 2023-09-09 02:25:18.836 [main] ContextLoaderListener - Workspace metadata caching: false
+[INFO ] 2023-09-09 02:25:18.839 [main] ContextLoaderListener - Search: lucene
+[INFO ] 2023-09-09 02:25:18.877 [main] ContextLoaderListener - Graphviz (dot): true
+[INFO ] 2023-09-09 02:25:18.879 [main] ContextLoaderListener - DSL editor: false
+[INFO ] 2023-09-09 02:25:18.881 [main] ContextLoaderListener - Safe mode: true
+[INFO ] 2023-09-09 02:25:18.884 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 02:25:18.887 [main] ContextLoaderListener - MIT License
+[INFO ] 2023-09-09 02:25:18.890 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 02:25:18.893 [main] ContextLoaderListener - Copyright (c) 2023 Structurizr Limited
+[INFO ] 2023-09-09 02:25:18.894 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 02:25:18.896 [main] ContextLoaderListener - Permission is hereby granted, free of charge, to any person obtaining a copy
+[INFO ] 2023-09-09 02:25:18.898 [main] ContextLoaderListener - of this software and associated documentation files (the "Software"), to deal
+[INFO ] 2023-09-09 02:25:18.899 [main] ContextLoaderListener - in the Software without restriction, including without limitation the rights
+[INFO ] 2023-09-09 02:25:18.902 [main] ContextLoaderListener - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+[INFO ] 2023-09-09 02:25:18.903 [main] ContextLoaderListener - copies of the Software, and to permit persons to whom the Software is
+[INFO ] 2023-09-09 02:25:18.905 [main] ContextLoaderListener - furnished to do so, subject to the following conditions:
+[INFO ] 2023-09-09 02:25:18.906 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 02:25:18.907 [main] ContextLoaderListener - The above copyright notice and this permission notice shall be included in all
+[INFO ] 2023-09-09 02:25:18.909 [main] ContextLoaderListener - copies or substantial portions of the Software.
+[INFO ] 2023-09-09 02:25:18.910 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 02:25:18.911 [main] ContextLoaderListener - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+[INFO ] 2023-09-09 02:25:18.913 [main] ContextLoaderListener - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+[INFO ] 2023-09-09 02:25:18.917 [main] ContextLoaderListener - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+[INFO ] 2023-09-09 02:25:18.918 [main] ContextLoaderListener - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+[INFO ] 2023-09-09 02:25:18.920 [main] ContextLoaderListener - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+[INFO ] 2023-09-09 02:25:18.922 [main] ContextLoaderListener - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+[INFO ] 2023-09-09 02:25:18.923 [main] ContextLoaderListener - SOFTWARE.
+[INFO ] 2023-09-09 02:25:18.925 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 05:26:08.598 [Thread-1] Configuration - ********************************************************
+[INFO ] 2023-09-09 05:26:08.603 [Thread-1] Configuration -  Stopping Structurizr
+[INFO ] 2023-09-09 05:26:08.604 [Thread-1] Configuration - ********************************************************
+[INFO ] 2023-09-09 05:26:20.471 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 05:26:20.481 [main] ContextLoaderListener -   _____ _                   _              _          
+[INFO ] 2023-09-09 05:26:20.482 [main] ContextLoaderListener -  / ____| |                 | |            (_)         
+[INFO ] 2023-09-09 05:26:20.484 [main] ContextLoaderListener - | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2023-09-09 05:26:20.484 [main] ContextLoaderListener -  \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2023-09-09 05:26:20.486 [main] ContextLoaderListener -  ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2023-09-09 05:26:20.486 [main] ContextLoaderListener - |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2023-09-09 05:26:20.487 [main] ContextLoaderListener -                                                       
+[INFO ] 2023-09-09 05:26:20.489 [main] ContextLoaderListener - Structurizr on-premises installation
+[INFO ] 2023-09-09 05:26:20.493 [main] ContextLoaderListener -  - build: 3140 (2023-09-08T11:00:28Z)
+[INFO ] 2023-09-09 05:26:20.498 [main] ContextLoaderListener -  - structurizr-java: v1.26.1
+[INFO ] 2023-09-09 05:26:20.527 [main] ContextLoaderListener -  - structurizr-dsl: v1.32.0
+[INFO ] 2023-09-09 05:26:20.531 [main] ContextLoaderListener -  - structurizr-import: v1.5.0
+[INFO ] 2023-09-09 05:26:20.539 [main] ContextLoaderListener -  - structurizr-graphviz: v2.2.1
+[INFO ] 2023-09-09 05:26:20.548 [main] ContextLoaderListener - Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2023-09-09 05:26:20.549 [main] ContextLoaderListener - URL: 
+[INFO ] 2023-09-09 05:26:20.559 [main] ContextLoaderListener - Memory: used=46MB; free=465MB; total=512MB; max=512MB
+[INFO ] 2023-09-09 05:26:20.562 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 05:26:20.563 [main] ContextLoaderListener - Internet connection: true
+[INFO ] 2023-09-09 05:26:20.565 [main] ContextLoaderListener - Authentication: file
+[INFO ] 2023-09-09 05:26:20.566 [main] ContextLoaderListener - API key: false
+[INFO ] 2023-09-09 05:26:20.568 [main] ContextLoaderListener - Session: local
+[INFO ] 2023-09-09 05:26:20.571 [main] ContextLoaderListener - Data storage: file
+[INFO ] 2023-09-09 05:26:20.573 [main] ContextLoaderListener - Workspace archiving: false
+[INFO ] 2023-09-09 05:26:20.575 [main] ContextLoaderListener - Workspace metadata caching: false
+[INFO ] 2023-09-09 05:26:20.577 [main] ContextLoaderListener - Search: lucene
+[INFO ] 2023-09-09 05:26:20.613 [main] ContextLoaderListener - Graphviz (dot): true
+[INFO ] 2023-09-09 05:26:20.615 [main] ContextLoaderListener - DSL editor: true
+[INFO ] 2023-09-09 05:26:20.618 [main] ContextLoaderListener - Safe mode: true
+[INFO ] 2023-09-09 05:26:20.620 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 05:26:20.622 [main] ContextLoaderListener - MIT License
+[INFO ] 2023-09-09 05:26:20.624 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 05:26:20.626 [main] ContextLoaderListener - Copyright (c) 2023 Structurizr Limited
+[INFO ] 2023-09-09 05:26:20.628 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 05:26:20.630 [main] ContextLoaderListener - Permission is hereby granted, free of charge, to any person obtaining a copy
+[INFO ] 2023-09-09 05:26:20.632 [main] ContextLoaderListener - of this software and associated documentation files (the "Software"), to deal
+[INFO ] 2023-09-09 05:26:20.633 [main] ContextLoaderListener - in the Software without restriction, including without limitation the rights
+[INFO ] 2023-09-09 05:26:20.635 [main] ContextLoaderListener - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+[INFO ] 2023-09-09 05:26:20.637 [main] ContextLoaderListener - copies of the Software, and to permit persons to whom the Software is
+[INFO ] 2023-09-09 05:26:20.639 [main] ContextLoaderListener - furnished to do so, subject to the following conditions:
+[INFO ] 2023-09-09 05:26:20.641 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 05:26:20.643 [main] ContextLoaderListener - The above copyright notice and this permission notice shall be included in all
+[INFO ] 2023-09-09 05:26:20.644 [main] ContextLoaderListener - copies or substantial portions of the Software.
+[INFO ] 2023-09-09 05:26:20.645 [main] ContextLoaderListener - 
+[INFO ] 2023-09-09 05:26:20.647 [main] ContextLoaderListener - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+[INFO ] 2023-09-09 05:26:20.648 [main] ContextLoaderListener - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+[INFO ] 2023-09-09 05:26:20.650 [main] ContextLoaderListener - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+[INFO ] 2023-09-09 05:26:20.652 [main] ContextLoaderListener - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+[INFO ] 2023-09-09 05:26:20.653 [main] ContextLoaderListener - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+[INFO ] 2023-09-09 05:26:20.654 [main] ContextLoaderListener - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+[INFO ] 2023-09-09 05:26:20.656 [main] ContextLoaderListener - SOFTWARE.
+[INFO ] 2023-09-09 05:26:20.659 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-09 05:29:52.794 [http-nio-8080-exec-4] AuthenticationSuccessHandler - structurizr successfully authenticated
+[WARN ] 2023-09-09 06:08:33.892 [http-nio-8080-exec-9] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:08:33.901 [http-nio-8080-exec-9] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:08:33.903 [http-nio-8080-exec-9] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:08:38.919 [http-nio-8080-exec-9] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:08:38.921 [http-nio-8080-exec-9] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:08:38.923 [http-nio-8080-exec-9] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.594 [http-nio-8080-exec-5] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.598 [http-nio-8080-exec-5] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.603 [http-nio-8080-exec-5] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.610 [http-nio-8080-exec-5] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.614 [http-nio-8080-exec-5] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:19.618 [http-nio-8080-exec-5] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.800 [http-nio-8080-exec-5] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.803 [http-nio-8080-exec-5] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.805 [http-nio-8080-exec-5] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.807 [http-nio-8080-exec-5] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.809 [http-nio-8080-exec-5] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:15:27.810 [http-nio-8080-exec-5] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.309 [http-nio-8080-exec-2] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.311 [http-nio-8080-exec-2] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.314 [http-nio-8080-exec-2] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.318 [http-nio-8080-exec-2] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.321 [http-nio-8080-exec-2] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:05.324 [http-nio-8080-exec-2] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.282 [http-nio-8080-exec-5] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.285 [http-nio-8080-exec-5] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.287 [http-nio-8080-exec-5] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.289 [http-nio-8080-exec-5] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.291 [http-nio-8080-exec-5] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:16:20.294 [http-nio-8080-exec-5] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:24:01.961 [http-nio-8080-exec-1] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 06:24:01.983 [http-nio-8080-exec-1] View - There is no layout information for the element named MagentaRapidsCore on view SystemContext-001
+[WARN ] 2023-09-09 06:24:01.985 [http-nio-8080-exec-1] View - There is no layout information for the element named MagentaRapidsFrontend on view SystemContext-001
+[WARN ] 2023-09-09 06:24:24.137 [http-nio-8080-exec-1] ViewSet - Could not find a matching view for "System Landscape" ... diagram layout information may be lost.
+[INFO ] 2023-09-09 20:02:22.831 [http-nio-8080-exec-7] AuthenticationSuccessHandler - structurizr successfully authenticated
+[WARN ] 2023-09-09 20:02:48.057 [http-nio-8080-exec-4] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:02:48.059 [http-nio-8080-exec-4] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:02:48.062 [http-nio-8080-exec-4] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:02:48.066 [http-nio-8080-exec-4] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:02:48.069 [http-nio-8080-exec-4] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:02:48.070 [http-nio-8080-exec-4] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.057 [http-nio-8080-exec-9] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.059 [http-nio-8080-exec-9] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.062 [http-nio-8080-exec-9] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.064 [http-nio-8080-exec-9] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.067 [http-nio-8080-exec-9] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:03:52.070 [http-nio-8080-exec-9] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.125 [http-nio-8080-exec-7] ViewSet - SystemLandscape-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.129 [http-nio-8080-exec-7] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.133 [http-nio-8080-exec-7] ViewSet - SystemContext-002 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.137 [http-nio-8080-exec-7] ViewSet - SystemContext-003 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.141 [http-nio-8080-exec-7] ViewSet - SystemContext-004 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:22.143 [http-nio-8080-exec-7] ViewSet - SystemContext-005 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:44.196 [http-nio-8080-exec-2] ViewSet - SystemContext-001 is an automatically generated view key - you will likely lose manual layout information when using automatically generated view keys.
+[WARN ] 2023-09-09 20:04:44.199 [http-nio-8080-exec-2] View - There is no layout information for the element named MagentaRapidsCore on view SystemContext-001
+[WARN ] 2023-09-09 20:04:44.202 [http-nio-8080-exec-2] View - There is no layout information for the element named MagentaRapidsFrontend on view SystemContext-001
+[WARN ] 2023-09-09 20:05:03.819 [http-nio-8080-exec-3] ViewSet - Could not find a matching view for "System Landscape" ... diagram layout information may be lost.
+[INFO ] 2023-09-10 16:28:36.817 [http-nio-8080-exec-7] AuthenticationSuccessHandler - structurizr successfully authenticated
+[INFO ] 2023-09-10 16:42:13.600 [Thread-1] Configuration - ********************************************************
+[INFO ] 2023-09-10 16:42:13.602 [Thread-1] Configuration -  Stopping Structurizr
+[INFO ] 2023-09-10 16:42:13.602 [Thread-1] Configuration - ********************************************************
+[INFO ] 2023-09-10 16:51:31.488 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-10 16:51:31.496 [main] ContextLoaderListener -   _____ _                   _              _          
+[INFO ] 2023-09-10 16:51:31.498 [main] ContextLoaderListener -  / ____| |                 | |            (_)         
+[INFO ] 2023-09-10 16:51:31.499 [main] ContextLoaderListener - | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2023-09-10 16:51:31.501 [main] ContextLoaderListener -  \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2023-09-10 16:51:31.501 [main] ContextLoaderListener -  ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2023-09-10 16:51:31.502 [main] ContextLoaderListener - |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2023-09-10 16:51:31.503 [main] ContextLoaderListener -                                                       
+[INFO ] 2023-09-10 16:51:31.504 [main] ContextLoaderListener - Structurizr on-premises installation
+[INFO ] 2023-09-10 16:51:31.509 [main] ContextLoaderListener -  - build: 3140 (2023-09-08T11:00:28Z)
+[INFO ] 2023-09-10 16:51:31.513 [main] ContextLoaderListener -  - structurizr-java: v1.26.1
+[INFO ] 2023-09-10 16:51:31.539 [main] ContextLoaderListener -  - structurizr-dsl: v1.32.0
+[INFO ] 2023-09-10 16:51:31.542 [main] ContextLoaderListener -  - structurizr-import: v1.5.0
+[INFO ] 2023-09-10 16:51:31.550 [main] ContextLoaderListener -  - structurizr-graphviz: v2.2.1
+[INFO ] 2023-09-10 16:51:31.559 [main] ContextLoaderListener - Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2023-09-10 16:51:31.561 [main] ContextLoaderListener - URL: 
+[INFO ] 2023-09-10 16:51:31.567 [main] ContextLoaderListener - Memory: used=46MB; free=465MB; total=512MB; max=512MB
+[INFO ] 2023-09-10 16:51:31.568 [main] ContextLoaderListener - 
+[INFO ] 2023-09-10 16:51:31.570 [main] ContextLoaderListener - Internet connection: true
+[INFO ] 2023-09-10 16:51:31.572 [main] ContextLoaderListener - Authentication: file
+[INFO ] 2023-09-10 16:51:31.574 [main] ContextLoaderListener - API key: false
+[INFO ] 2023-09-10 16:51:31.583 [main] ContextLoaderListener - Session: local
+[INFO ] 2023-09-10 16:51:31.585 [main] ContextLoaderListener - Data storage: file
+[INFO ] 2023-09-10 16:51:31.587 [main] ContextLoaderListener - Workspace archiving: false
+[INFO ] 2023-09-10 16:51:31.590 [main] ContextLoaderListener - Workspace metadata caching: false
+[INFO ] 2023-09-10 16:51:31.593 [main] ContextLoaderListener - Search: lucene
+[INFO ] 2023-09-10 16:51:31.659 [main] ContextLoaderListener - Graphviz (dot): true
+[INFO ] 2023-09-10 16:51:31.663 [main] ContextLoaderListener - DSL editor: true
+[INFO ] 2023-09-10 16:51:31.667 [main] ContextLoaderListener - Safe mode: true
+[INFO ] 2023-09-10 16:51:31.672 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-10 16:51:31.675 [main] ContextLoaderListener - MIT License
+[INFO ] 2023-09-10 16:51:31.677 [main] ContextLoaderListener - 
+[INFO ] 2023-09-10 16:51:31.680 [main] ContextLoaderListener - Copyright (c) 2023 Structurizr Limited
+[INFO ] 2023-09-10 16:51:31.682 [main] ContextLoaderListener - 
+[INFO ] 2023-09-10 16:51:31.684 [main] ContextLoaderListener - Permission is hereby granted, free of charge, to any person obtaining a copy
+[INFO ] 2023-09-10 16:51:31.685 [main] ContextLoaderListener - of this software and associated documentation files (the "Software"), to deal
+[INFO ] 2023-09-10 16:51:31.687 [main] ContextLoaderListener - in the Software without restriction, including without limitation the rights
+[INFO ] 2023-09-10 16:51:31.689 [main] ContextLoaderListener - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+[INFO ] 2023-09-10 16:51:31.691 [main] ContextLoaderListener - copies of the Software, and to permit persons to whom the Software is
+[INFO ] 2023-09-10 16:51:31.694 [main] ContextLoaderListener - furnished to do so, subject to the following conditions:
+[INFO ] 2023-09-10 16:51:31.697 [main] ContextLoaderListener - 
+[INFO ] 2023-09-10 16:51:31.699 [main] ContextLoaderListener - The above copyright notice and this permission notice shall be included in all
+[INFO ] 2023-09-10 16:51:31.700 [main] ContextLoaderListener - copies or substantial portions of the Software.
+[INFO ] 2023-09-10 16:51:31.703 [main] ContextLoaderListener - 
+[INFO ] 2023-09-10 16:51:31.704 [main] ContextLoaderListener - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+[INFO ] 2023-09-10 16:51:31.706 [main] ContextLoaderListener - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+[INFO ] 2023-09-10 16:51:31.708 [main] ContextLoaderListener - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+[INFO ] 2023-09-10 16:51:31.710 [main] ContextLoaderListener - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+[INFO ] 2023-09-10 16:51:31.712 [main] ContextLoaderListener - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+[INFO ] 2023-09-10 16:51:31.713 [main] ContextLoaderListener - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+[INFO ] 2023-09-10 16:51:31.714 [main] ContextLoaderListener - SOFTWARE.
+[INFO ] 2023-09-10 16:51:31.716 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-09-10 16:51:50.098 [http-nio-8080-exec-9] AuthenticationSuccessHandler - structurizr successfully authenticated
+[INFO ] 2023-09-22 01:05:30.775 [Thread-1] Configuration - ********************************************************
+[INFO ] 2023-09-22 01:05:30.787 [Thread-1] Configuration -  Stopping Structurizr
+[INFO ] 2023-09-22 01:05:30.789 [Thread-1] Configuration - ********************************************************
